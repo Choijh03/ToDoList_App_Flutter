@@ -24,6 +24,9 @@ Functionalities:
 
 ![5](https://user-images.githubusercontent.com/98497929/222298938-429c7217-5668-4467-9eb7-963919b32cde.PNG)
 
+![6](https://user-images.githubusercontent.com/98497929/222298955-68279a7f-76e6-4369-a9c4-a0cced6f85fe.PNG)
+
 -check box item:
 
-![6](https://user-images.githubusercontent.com/98497929/222298955-68279a7f-76e6-4369-a9c4-a0cced6f85fe.PNG)
+![Capture](https://user-images.githubusercontent.com/98497929/222299043-31a04173-ee73-4dd3-8b83-adf389203f16.PNG)
+
